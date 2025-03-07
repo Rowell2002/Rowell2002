@@ -1,7 +1,5 @@
-<img src="[https://elitelogomaker.com/services/en](https://www.google.com/imgres?imgurl=https://user-images.githubusercontent.com/45178766/250217427-00c8a670-163f-4b99-aa79-8ec9aab8321a.png&tbnid=BFYaAT4iTBptbM&vet=1&imgrefurl=https://github.com/omair115&docid=QpqVMVXqbj7tfM&w=2000&h=400&hl=en-GB&source=sh/x/im/m1/4&kgs=42f69adfbb3311e0)" width="100%" />
-
-# Hello World!, I'm Rowel, a Developer 👋🏼:
-🛜 currently working on my studies<br>👨🏼‍🎓 studying software engineering at NIBM<br>👨🏼‍💻 working as a intern</i>
+# Hello World!, I'm Chethana Rowel, a FullStack Developer 👋🏼:
+🛜 currently working on my studies<br>👨🏼‍🎓 studying software engineering at NIBM<br></i>
 
 
 # 💻 Tech Stack:

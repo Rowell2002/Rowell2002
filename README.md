@@ -1,8 +1,14 @@
 # Hello World!, I'm Chethana Rowel 👋🏼:
 💻 Full Stack Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner <br>
 
-I’m a passionate FullStack Developer skilled in crafting robust applications with a blend of modern technologies. I love exploring new frameworks, solving complex problems, and contributing to the tech community.</i>
+I’m a passionate FullStack Developer skilled in crafting robust applications with a blend of modern technologies. I love exploring new frameworks, solving complex problems, and contributing to the tech community.<br></i>
 
+📌 What I’m Up To<br>
+
+🚀 Building scalable web and mobile apps<br>
+📊 Diving into Machine Learning & AI<br>
+☁️ Exploring Cloud & DevOps technologies<br>
+🎯 Looking for opportunities to collaborate & innovate<br>
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 

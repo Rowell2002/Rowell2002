@@ -1,7 +1,7 @@
 # Hello World!, I'm Chethana Rowel 👋🏼:
 💻 Full Stack Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner <br>
-I’m a passionate FullStack Developer skilled in crafting robust applications with a blend of modern technologies. I love exploring new frameworks, solving complex problems, and contributing to the tech community.
-🛜 currently working on my studies<br>👨🏼‍🎓 studying software engineering at NIBM<br></i>
+
+I’m a passionate FullStack Developer skilled in crafting robust applications with a blend of modern technologies. I love exploring new frameworks, solving complex problems, and contributing to the tech community.</i>
 
 
 # 💻 Tech Stack:
